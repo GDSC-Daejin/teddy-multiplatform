@@ -5,6 +5,7 @@
         <item name="android:navigationBarColor" tools:targetApi="l">@android:color/transparent
         </item>
         <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="o_mr1">true</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
     </style>
 

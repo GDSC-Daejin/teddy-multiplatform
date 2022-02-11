@@ -41,7 +41,7 @@ fun DetailScreenTopHeader(user: UserStatsUser?) {
 
                 Spacer(modifier = Modifier.height(20.dp))
 
-                Divider()
+                Divider(color = MaterialTheme.colors.onSurface.copy(alpha = 0.05f))
 
                 Spacer(modifier = Modifier.height(20.dp))
 
